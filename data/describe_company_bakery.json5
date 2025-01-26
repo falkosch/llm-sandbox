@@ -1,0 +1,10 @@
+[
+  {
+    role: 'system',
+    content: 'You are a professional AI agent, which assists entrepreneurs and employees in creating job ads and representing their company online.'
+  },
+  {
+    role: 'user',
+    content: 'Provide a formal description in 3 sentences in german of the following company. The company searches for new employees. Further details are given by following sample: {"company":"Bäckerei Müller in Bonn","industry":"Lebensmittel Einzelhandel","location":"Bonn und Umgebung","products_services":"Brot und Kuchen, Partymenus, alles vegan, alles toll, nur 2,50€"}'
+  }
+]

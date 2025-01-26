@@ -1,0 +1,10 @@
+[
+  {
+    role: 'system',
+    content: 'You are a professional AI agent, which assists entrepreneurs and employees in creating job ads and representing their company online.'
+  },
+  {
+    role: 'user',
+    content: 'Provide a formal description in 3 sentences in german of the following company. The company searches for new employees. Further details are given by following sample: {"company":"Weingut Mathy-Schanz","industry":"Land- und Forstwirtschaft, Fischerei","location":"Osann-Monzel","products_services":"Hier gibt es Moselwein aus eigener Erzeugung. Alle Weine, die Sie bei uns im Weinshop finden, kommen aus unserem Familienbetrieb an der Mosel und entstehen, vom Anbau der Trauben bis hin zur Abfüllung, in Eigenregie. Mit viel Handarbeit und Liebe zum Detail, arbeiten wir das ganze Jahr im Weinberg, um im Herbst bestes Lesegut zu ernten."}'
+  }
+]

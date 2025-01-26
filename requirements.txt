@@ -1,0 +1,17 @@
+setuptools
+huggingface-hub
+json5
+python-dotenv
+
+packaging
+ninja
+
+accelerate
+optimum
+protobuf
+sentencepiece
+
+bitsandbytes
+
+#-r requirements_cpu.txt
+-r requirements_cuda.txt
